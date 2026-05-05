@@ -29,7 +29,7 @@ I completed my BSc dissertation in 2024, which involved modelling photon pair ge
 
 ### 👩‍💻 Code 
 
-My top languages are: Python, Rust, Julia & C.
+My top languages are: Python, C++, Rust, Julia & C.
 
 I have experience using: Qiskit, as well as various Quantum Discrete event simulators, such as Netsquid and SeQUeNCe. 
 In my repositories, you can find examples of my Quantum Discrete event simulations (Python) as well as my personal academic quantum paper library, and one of my projects based on multidimentional superconducting materials (C).
