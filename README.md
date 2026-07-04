@@ -45,5 +45,4 @@ In terms of open source I have worked/contributed to the following repos:
 [2]: https://bsky.app/profile/grageragarces.github.io
 [3]: https://scholar.google.com/citations?user=QydE450AAAAJ&hl=en
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=grageragarces)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=grageragarces)](https://github.com/grageragarces/github-profile-trophy)
