@@ -44,5 +44,3 @@ In terms of open source I have worked/contributed to the following repos:
 [1]: https://www.linkedin.com/in/maria-gragera-garces/
 [2]: https://bsky.app/profile/grageragarces.github.io
 [3]: https://scholar.google.com/citations?user=QydE450AAAAJ&hl=en
-
-[![trophy](https://vercel.app)](https://github.com/ryo-ma/github-profile-trophy)
