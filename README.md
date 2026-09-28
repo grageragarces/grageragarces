@@ -13,6 +13,8 @@ My career thus far looks a bit like this:
 - 2023/2024 IBM Quantum Intern
 - 2024/2028 PhD Quantum Informatics at the University of Edinburgh
 - 2025 Quantinuum intern: see my contributions [@mariagg-quantinuum](https://github.com/mariagg-quantinuum)
+- 2026 Invited researcher (HACKAMONTH participant) at the National University of Singapore (NUS)
+- 2027 [UPCOMING] European Research Agency (ESA) Phi Lab Visiting Researcher
 
 You can find the full story on [LinkedIn][1].
 
